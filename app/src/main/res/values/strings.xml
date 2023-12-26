@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCardApp</string>
+    <string name="fullname">Khushbu Modi</string>
+    <string name="desc">Android Developer</string>
+    <string name="pno">+91-9834567865</string>
+    <string name="snm">\@AndroidDev</string>
+    <string name="email">khus11@gmail.com</string>
+</resources>
